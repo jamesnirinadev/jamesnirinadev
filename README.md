@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesnirinadev
-- 👀 I’m interested in PHP, Python, JS, HTML, CSS
+- 👀 I’m interested in PHP, JAVA, Python, JS, HTML, CSS, ANDROID STUDIO
 - 🌱 I’m currently learning All as possible. 
 
 <!---
